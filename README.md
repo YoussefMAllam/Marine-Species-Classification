@@ -71,17 +71,6 @@ Marine-Species-Classification/
     └── (marine species dataset files)
 ```
 
-## Results
-
-[Add information about model performance, accuracy scores, and key findings here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
